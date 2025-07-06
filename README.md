@@ -46,7 +46,6 @@
 🌐 Idiomas
 
 🇧🇷 Português: Nativo
-
 🇺🇸 Inglês: Intermediário
 
 ---
