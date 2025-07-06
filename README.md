@@ -44,17 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fanio-Hub&theme=github-compact&hide_border=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fanio-Hub&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanio-Hub&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 📬 Contato
 
 - 📧 faniosalve@gmail.com  
