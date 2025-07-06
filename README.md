@@ -38,9 +38,16 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Dashboards Power BI](https://github.com/Fanio-Hub/Dashboards-PowerBI) | Visualizações com dados de saúde e ERP | Power BI |
-| [SQL Scripts Úteis](https://github.com/Fanio-Hub/SQL-Scripts) | Scripts reutilizáveis em Oracle e SQL | SQL, PL/SQL |
-| [Preparação de Dados](https://github.com/Fanio-Hub/Data-Analytics) | Pré-processamento com foco em ML | PL/SQL |
+| [PL/SQL](https://github.com/fanio-salve/PL-SQL) | Pré-processamento com foco em ML | PL/SQL |
+| [Business Problems](https://github.com/fanio-salve/business-problems) | Respondendo e Resolvendo problemas de negócios | SQL, PL/SQL |
+
+---
+
+🌐 Idiomas
+
+🇧🇷 Português: Nativo
+
+🇺🇸 Inglês: Intermediário
 
 ---
 
