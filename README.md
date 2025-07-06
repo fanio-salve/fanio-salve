@@ -2,7 +2,7 @@
 
 💼 Analista de Sistemas                       
 📊 Crio dashboards e soluções baseadas em dados com Power BI e SQL  
-🏥 Especialista no ERP hospitalar SoulMV (Oracle DB)  
+🏥 Especialista no ERP hospitalar MV (Oracle DB)  
 🎯 Em transição para Análise de Dados, com foco em automações e BI  
 
 ---
