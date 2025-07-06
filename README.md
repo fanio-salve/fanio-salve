@@ -39,7 +39,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [PL/SQL](https://github.com/fanio-salve/PL-SQL) | Pré-processamento com foco em ML | PL/SQL |
-| [Business Problems](https://github.com/fanio-salve/business-problems) | Respondendo e Resolvendo problemas de negócios | SQL, PL/SQL |
+| [Business Problems](https://github.com/fanio-salve/business-problems) | Respondendo e Resolvendo problemas de negócios | PL/SQL |
 
 ---
 
