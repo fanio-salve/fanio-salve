@@ -9,8 +9,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 📚 Especializando-me em Análise de Dados  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas e Análise de Dados    
 - 🛠️ Experiência em suporte, ERP hospitalar e gestão de dados  
 - 🚀 Curioso por soluções que unem tecnologia e impacto real  
 - 🌱 Aprendendo continuamente Python, Pandas e ferramentas de dados  
