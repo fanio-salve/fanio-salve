@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Fânio Salve
 
 💼 Analista de Sistemas                       
-📊 Crio dashboards e soluções baseadas em dados com Power BI e SQL  
-🏥 Especialista no ERP hospitalar MV (Oracle DB)  
+📊 Crio dashboards e soluções baseadas em dados com Power BI e SQL    
 🎯 Em transição para Análise de Dados, com foco em automações e BI  
 
 ---
