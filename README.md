@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas e Análise de Dados    
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas e Pós Graduado em Análise de Dados    
 - 🛠️ Experiência em suporte, ERP hospitalar e gestão de dados  
 - 🚀 Curioso por soluções que unem tecnologia e impacto real  
 - 🌱 Aprendendo continuamente Python, Pandas e ferramentas de dados  
@@ -17,7 +17,7 @@
 
 ## 🧰 Tech Stack
 
-- 💾 Oracle DB | PL/SQL | SQL Server  
+- 💾 Oracle DB | PL/SQL | SQL Server | Postgre SQL 
 - 📊 Power BI | Dashboards | Relatórios Interativos  
 - 🐍 Python (Pandas, Jupyter) – em evolução  
 - 🔧 Git • GitHub • Metodologias Ágeis  
@@ -29,13 +29,15 @@
 - 🧩 Scrum Foundation  
 - 📘 ITIL4 Foundation  
 - 🧑‍💼 HDI Customer Service Representative  
-
+- 💾 DACP - Data Analyst Certified Professional
+- 💾 DACS - Data Analyst Certified Specialist
 ---
 
 ## 🔍 Em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| [PL/SQL](https://github.com/fanio-salve/ciberseguranca) | Análise de Atividades e Comportamentos de Ataques Cibernéticos | PL/SQL |
 | [PL/SQL](https://github.com/fanio-salve/PL-SQL) | Pré-processamento com foco em ML | PL/SQL |
 | [Business Problems](https://github.com/fanio-salve/business-problems) | Respondendo e Resolvendo problemas de negócios | PL/SQL |
 
