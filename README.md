@@ -2,7 +2,7 @@
 
 💼 Analista de Sistemas                       
 📊 Crio dashboards e soluções baseadas em dados com Power BI e SQL    
-🎯 Com foco em Análise de Dados e BI  
+🎯 Focado em Análise de Dados e BI  
 
 ---
 
